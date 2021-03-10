@@ -1,10 +1,10 @@
 ## Linear regression and K-means in R
 
-Data Application| 
+[Data Application](https://www.kaggle.com/noahgift/social-power-nba#nba_2016_2017_100.csv)| 
 --
 <p>The data we have found is abundant (e.g., players' names, NBA players' court performances, players' ages, their participation in games and team wins, their participation in games).<br>
 
-In the data set we found, there is ample information about nba players (e.g., player names, NBA player court performance, player ages, number of games they played and team wins, number of games they played and team losses, and salary amounts ...... (etc.). Therefore, we hope to conduct a regression analysis through the course to find out the most suitable models for each of the following application issues: starting lineup decision issue, player's future performance and salary issue, in order to provide NBA coaching staff with the opportunity to make team management decisions.</p>
+In the data set we found, there is ample information about nba players (e.g., player names, NBA player court performance, player ages, number of games they played and team wins, number of games they played and team losses, and salary amounts, etc. Therefore, we hope to conduct a regression analysis through the course to find out the most suitable models for each of the following application issues: starting lineup decision issue, player's future performance and salary issue, in order to provide NBA coaching staff with the opportunity to make team management decisions.</p>
 
 1. Starting lineup decision issues.
       1. Analyze how to filter the ability of each position in order to get a better chance of winning for the team
