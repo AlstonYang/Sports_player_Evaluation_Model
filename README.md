@@ -11,6 +11,6 @@ In the data set we found, there is ample information about nba players (e.g., pl
       2. To see who are the more valuable players in each starting position for the starting lineup
 
 2. Player's future performance and salary issues.
-   2.1. Use players' historical data to predict their future performance on the field
-   2.2. To establish a reasonable salary based on the player's performance
+      1. Use players' historical data to predict their future performance on the field
+      2. To establish a reasonable salary based on the player's performance
 
