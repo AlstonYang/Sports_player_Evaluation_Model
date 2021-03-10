@@ -1,14 +1,17 @@
 # Sports_player_Evaluation_Model
 Linear regression and K-means in R
 
-資料應用
+Data Application
 --
-在我們所找到的資料集中，有充沛的nba球員資料（如：球員姓名、NBA球員球場表現、球員年齡、其參與比賽且球隊勝戰數、其參與比賽而球隊敗戰數和薪資金額......等）。因此希望藉由課程所學，進行迴歸分析，找出如下各應用議題較為適合的模型，分別為：先發陣容決策議題、球員未來球場表現狀況與支薪議題，藉此提供NBA教練團進行球隊經營管理決策：
+>The data we have found is abundant (e.g., players' names, NBA players' court performances, players' ages, their participation in games and team wins, their participation in games).
+>
+>In the data set we found, there is ample information about nba players (e.g., player names, NBA player court performance, player ages, number of games they played and team wins, number of games they played and team losses, and salary amounts ...... (etc.). Therefore, we hope to conduct a regression analysis through the course to find out the most suitable models for each of the following application issues: starting lineup decision issue, player's future performance and salary issue, in order to provide NBA coaching staff with the opportunity to make team management decisions.
 
-1. 先發陣容決策議題：
-1.1 分析如何篩選各位置看重的能力，才能為球隊獲得較大勝率
-1.2 再來看說每個先發位置中比較有價值的球員有誰以進行先發陣容安排
+1. Starting lineup decision issues.
+1.1 Analyze how to filter the ability of each position in order to get a better chance of winning for the team
+1.2 To see who are the more valuable players in each starting position for the starting lineup
 
-2. 球員未來球場表現狀況與支薪議題：
-2.1 利用球員歷年資料預測其未來的球場表現
-2.2 並依照球員表現擬定合理薪水
+2. Player's future performance and salary issues.
+2.1 Use players' historical data to predict their future performance on the field
+2.2 To establish a reasonable salary based on the player's performance
+
